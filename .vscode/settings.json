@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "datatypes",
+        "fabs",
+        "fgets",
+        "scanf",
+        "strcat",
+        "strchr",
+        "strcmp",
+        "strcpy",
+        "strlen",
+        "strlwr",
+        "strstr"
+    ],
+    "cmake.sourceDirectory": "/home/joh/Workspace/C_Language/beginners-C-program-examples-master"
+}
