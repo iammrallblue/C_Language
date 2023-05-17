@@ -479,3 +479,7 @@ do {
 ```
 
 - This code will print out the numbers 0 through 4 because the statements inside the loop will execute at least once before checking if `i < 5` is true
+
+---
+
+$\frac{2}{4}+\frac{5}{10}$
